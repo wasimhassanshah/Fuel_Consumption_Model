@@ -1,2 +1,2 @@
 # Fuel_Consumption_Model
- Designed a predictive vehicle fuel consumption model  to estimate consumption based on various vehicle parameters (sklearn)
+To predict the Average fuel consumption of a vehicle basis on different parameters like- Vehicle class, Engine size, Transmission, Fuel type, etc.  for User to find the consumption according to their vehicle's Parameter.
